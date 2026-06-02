@@ -67,3 +67,8 @@ The sample dataset preserves the original structure and schema, allowing users t
   .Findings can support data-driven decisions related to pricing strategies, inventory management, and category expansion.
 
   ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Revenue%20by%20Product%20Category.png?raw=true)
+  
+## Quantity Sold by Product Category :
+- Analyzed the total quantity sold across different product categories to understand customer demand patterns.
+- Identified the highest-selling and lowest-selling categories based on sales volume.
+- Categories with higher quantities sold demonstrated stronger customer demand and purchasing frequency.
