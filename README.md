@@ -72,3 +72,5 @@ The sample dataset preserves the original structure and schema, allowing users t
 - Analyzed the total quantity sold across different product categories to understand customer demand patterns.
 - Identified the highest-selling and lowest-selling categories based on sales volume.
 - Categories with higher quantities sold demonstrated stronger customer demand and purchasing frequency.
+
+  ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Total%20quantity%20Sold%20by%20Each%20category.png?raw=true)
