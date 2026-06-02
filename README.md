@@ -14,11 +14,10 @@ Python-based Exploratory Data Analysis (EDA) and data visualization techniques..
 
 ### Data Cleaning Summary
 - Conducted data preprocessing on a retail dataset containing over 1 million transaction records.
-- Identified and addressed missing values across key business attributes to improve data completeness.
 - Removed duplicate records to eliminate redundancy and ensure analytical accuracy.
-- Validated dataset consistency and structure following the cleaning process.
 - Enhanced data quality to support reliable KPI calculations, visualizations, and business insights.
 - Created a clean analytical dataset suitable for exploratory data analysis and decision-making.
+  
 
 
 ## Key Analysis
