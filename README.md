@@ -12,6 +12,15 @@ Python-based Exploratory Data Analysis (EDA) and data visualization techniques..
 - Seaborn
 
 
+### Data Cleaning Summary
+- Conducted data preprocessing on a retail dataset containing over 1 million transaction records.
+- Identified and addressed missing values across key business attributes to improve data completeness.
+- Removed duplicate records to eliminate redundancy and ensure analytical accuracy.
+- Validated dataset consistency and structure following the cleaning process.
+- Enhanced data quality to support reliable KPI calculations, visualizations, and business insights.
+- Created a clean analytical dataset suitable for exploratory data analysis and decision-making.
+
+
 ## Key Analysis
 - Revenue by Product Category
 - Quantity Sold by Category
@@ -55,6 +64,6 @@ The sample dataset preserves the original structure and schema, allowing users t
   .Analyzed revenue performance across different product categories to identify key business drivers.
   .Product categories contributed differently to overall sales, highlighting variations in customer demand.
   .High-performing categories generated a substantial share of total revenue and played a critical role in business growth.
-  .Lower-performing categories presented opportunities for targeted promotions and inventory optimization.
-  .Category-wise revenue analysis provided insights into purchasing preferences and product performance trends.
   .Findings can support data-driven decisions related to pricing strategies, inventory management, and category expansion.
+
+  ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Revenue%20by%20Product%20Category.png?raw=true)
