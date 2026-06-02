@@ -36,3 +36,7 @@ To keep the repository lightweight and accessible, a **sample dataset** has been
 
 The sample dataset preserves the original structure and schema, allowing users to understand and reproduce the analysis workflow.
 ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Screenshot%20(99).png?raw=true)
+
+## Monthly revenue
+- Evaluated monthly sales performance across 1M+ retail transactions.
+- Identified revenue growth and decline periods throughout the year.
