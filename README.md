@@ -50,3 +50,11 @@ The sample dataset preserves the original structure and schema, allowing users t
 
   
   ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Top%205%20Customers%20of%20the%20DMART.png?raw=true)
+
+  ## Productcategory wise Revenue
+  .Analyzed revenue performance across different product categories to identify key business drivers.
+  .Product categories contributed differently to overall sales, highlighting variations in customer demand.
+  .High-performing categories generated a substantial share of total revenue and played a critical role in business growth.
+  .Lower-performing categories presented opportunities for targeted promotions and inventory optimization.
+  .Category-wise revenue analysis provided insights into purchasing preferences and product performance trends.
+  .Findings can support data-driven decisions related to pricing strategies, inventory management, and category expansion.
