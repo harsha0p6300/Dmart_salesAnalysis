@@ -40,3 +40,13 @@ The sample dataset preserves the original structure and schema, allowing users t
 ## Monthly revenue
 - Evaluated monthly sales performance across 1M+ retail transactions.
 - Identified revenue growth and decline periods throughout the year.
+  
+  ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Monthly%20revenue.png?raw=true)
+
+## Top 5 Customers who shops more
+- Identified the top 5 highest-spending customers across 1M+ retail transactions.
+- These customers contributed approximately 12% of total revenue despite representing a very small fraction of the customer base.
+- The analysis highlights the impact of high-value customers on overall business performance.
+
+  
+  ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Top%205%20Customers%20of%20the%20DMART.png?raw=true)
