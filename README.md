@@ -12,26 +12,6 @@ Python-based Exploratory Data Analysis (EDA) and data visualization techniques..
 - Seaborn
 
 
-### Data Cleaning Summary
-- Conducted data preprocessing on a retail dataset containing over 1 million transaction records.
-- Removed duplicate records to eliminate redundancy and ensure analytical accuracy.
-- Enhanced data quality to support reliable KPI calculations, visualizations, and business insights.
-- Created a clean analytical dataset suitable for exploratory data analysis and decision-making.
-  
-
-
-## Key Analysis
-- Revenue by Product Category
-- Quantity Sold by Category
-- Top Customers Analysis
-- Revenue by Hour
-- Correlation Heatmap
-
-## Key Insights
-- Identified peak shopping hours and customer spending patterns.
-- Analyzed category-wise sales performance.
-- Generated business insights using exploratory data analysis (EDA).
-
 ## 📌 Dataset Note
 
 The original Dmart sales dataset contains **1M+ retail transaction records** and exceeds GitHub's file size limitations for repository uploads.
@@ -44,6 +24,25 @@ To keep the repository lightweight and accessible, a **sample dataset** has been
 
 The sample dataset preserves the original structure and schema, allowing users to understand and reproduce the analysis workflow.
 ![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Screenshot%20(99).png?raw=true)
+
+
+### Data Cleaning Summary
+- Conducted data preprocessing on a retail dataset containing over 1 million transaction records.
+- Removed duplicate records to eliminate redundancy and ensure analytical accuracy.
+- Enhanced data quality to support reliable KPI calculations, visualizations, and business insights.
+- Created a clean analytical dataset suitable for exploratory data analysis and decision-making.
+
+## Key Analysis
+- Revenue by Product Category
+- Quantity Sold by Category
+- Top Customers Analysis
+- Revenue by Hour
+- Correlation Heatmap
+
+## Key Insights
+- Identified peak shopping hours and customer spending patterns.
+- Analyzed category-wise sales performance.
+- Generated business insights using exploratory data analysis (EDA).
 
 ## Monthly revenue
 - Evaluated monthly sales performance across 1M+ retail transactions.
