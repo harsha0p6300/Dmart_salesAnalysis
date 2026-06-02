@@ -31,6 +31,8 @@ The sample dataset preserves the original structure and schema, allowing users t
 - Removed duplicate records to eliminate redundancy and ensure analytical accuracy.
 - Enhanced data quality to support reliable KPI calculations, visualizations, and business insights.
 - Created a clean analytical dataset suitable for exploratory data analysis and decision-making.
+  
+![image alt](https://github.com/harsha0p6300/Dmart_salesAnalysis/blob/main/Screenshot%20(100).png?raw=true)
 
 ## Key Analysis
 - Revenue by Product Category
